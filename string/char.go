@@ -14,5 +14,10 @@ func main() {
 		fmt.Println(i, char)
 	}
 
-	//append()
+
+	var flag1 = false
+	var flag2 = false
+	flag1 = true
+	flag2 = true
+	
 }
